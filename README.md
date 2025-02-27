@@ -9,10 +9,11 @@
 <div align="center">
   <img src="Blue Gradient Geometric 3D Computer Welcome Google Classroom Header.png"/>
 </div>
-
-
-
 <div>
+
+<br>
+<br>
+<br>
 
   ## 🧭 &nbsp;Acerca de mí
 
