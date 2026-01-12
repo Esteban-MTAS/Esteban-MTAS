@@ -32,17 +32,6 @@
 </div>
 
 
-<div align="center">
-
-  `Analista de datos y estudiante de software`
-  <br>
-
-  `=========================`
-  <br>
-
-  `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧`
-</div>
-
 
 <div>
 
