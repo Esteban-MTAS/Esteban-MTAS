@@ -24,7 +24,7 @@
 
   - 🚀 Interesado en el desarrollo web y backend.
     
-  - ⚡ Aprendiendo tecnologías como Java, C#, SQL SERVER , HTML Y CSS
+  - ⚡ Aprendiendo tecnologías como Java, C#, SQL SERVER , HTML, CSS, Postgresql
 
   <br>
   
